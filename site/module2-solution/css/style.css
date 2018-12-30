@@ -19,7 +19,7 @@ h3 {
 }
 
 section {
-    border: 3px solid black;
+    border: 1px solid black;
     color: white;
     background-color: #4b4949;
     padding-left: 15px;
@@ -34,10 +34,10 @@ section {
 .sec-title {
     position: absolute;
     left: 75.6%;
-    top: -2%;
+    top: -0.5%;
     text-align: center;
     width: 25%;
-    border: 3px solid black;
+    border: 1px solid black;
     color: black;
 }
 
