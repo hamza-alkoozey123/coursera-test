@@ -1,0 +1,9 @@
+.wh {
+    font-weight: bold;
+    background-color: rgb(247, 214, 67);
+    color: rgb(109, 57, 252) !important;
+}
+
+.pad{
+    padding: 0;
+}
